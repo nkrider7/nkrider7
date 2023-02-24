@@ -3,23 +3,15 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="nkrider7" /> </p>
 <p align="left"> <a href="https://twitter.com/rider.nk" target="blank"><img src="https://img.shields.io/twitter/follow/rider.nk?logo=twitter&style=for-the-badge" alt="rider.nk" /></a> </p>
 
-- 🔭 I’m currently working on **<b> Shorcut </b>**
+- 🔭 I’m currently working on **<b> Shorcut The Placement  </b>**
 
 - 🌱 I’m currently learning **bash script**
 
-- 👯 I’m looking to collaborate on **PROJECTS**
+- 👯 I’m looking to collaborate on **<b>My Project </b>**
 
-- 🤝 I’m looking for help with **Secrat ProZect**
-
-- 👨‍💻 All of my projects are available at [nkriderk.com](nkriderk.com)
-
-- 💬 Ask me about **c++ , python ,sql**
+- 💬 Ask me about **c++ , python ,sql ,PHP ,LINUX , BASH**
 
 - 📫 How to reach me **narendranishad59@gmail.com**
-
-- 📄 Know about my experiences [nkrider.com](nkrider.com)
-
-- ⚡ Fun fact **I learn DSA in 1 minute**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
