@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="nkrider7" /> </p>
 <p align="left"> <a href="https://twitter.com/rider.nk" target="blank"><img src="https://img.shields.io/twitter/follow/rider.nk?logo=twitter&style=for-the-badge" alt="rider.nk" /></a> </p>
 
-- 🔭 I’m currently working on **CTF Hack in THe BLACK**
+- 🔭 I’m currently working on **<b> Shorcut </b>**
 
 - 🌱 I’m currently learning **bash script**
 
