@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Narendra</h1>
 <h3 align="center">I am a Programmer </h3>
-<img align="center" alt="coding" width="400"
-src="https://i.pinimg.com/originals/eb/24/ac/eb24ac9ceb8b614128ed5945a385206a.gif">
-<p align="left"> <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="nkrider7" /> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="nkrider7" /> </p>
 <p align="left"> <a href="https://twitter.com/rider.nk" target="blank"><img src="https://img.shields.io/twitter/follow/rider.nk?logo=twitter&style=for-the-badge" alt="rider.nk" /></a> </p>
 
 - 🔭 I’m currently working on **CTF Hack in THe BLACK**
