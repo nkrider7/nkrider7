@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **<b> Shorcut The Placement  </b>**
 
-- 🌱 I’m currently learning **bash script**
+- 🌱 I’m currently learning **PHP, Mysql**
 
 - 👯 I’m looking to collaborate on **<b>My Project </b>**
 
