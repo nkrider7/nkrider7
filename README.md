@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **<b> RAPIDCUTS </b>**
 
-- 🌱 I’m currently learning **PHP, Mysql**
+- 🌱 I’m currently learning **Reactjs Nodejs**
 
 - 👯 I’m looking to collaborate on **<b>My Project </b>**
 
