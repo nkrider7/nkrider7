@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra</h1>
-<h3 align="center">I am a Programmer </h3>
+
 <p align="center"> <img src="/github.gif"  alt="nkrider7" /> </p>
 
 🔭 I’m currently working on React Native Expo, Next Js<br><br>🌱 I’m currently learning PostgreSQL, Prisma.<br><br>👯 I’m looking to collaborate on My SaaS App { ? } <br><br>💬 Ask me about React, NextJS, Javascript, Cybersecurity<br><br>📫 How to reach me narendranishad59@gmail.com
