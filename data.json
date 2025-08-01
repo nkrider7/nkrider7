@@ -1,0 +1,144 @@
+{
+  "name": "Narendra Nishad",
+  "title": "Software Developer",
+  "contact": {
+    "email": "narendranishad59@gmail.com",
+    "phone": "+91-89388 50519",
+    "location": {
+      "city": "Aligarh",
+      "state": "Uttar Pradesh",
+      "postalCode": "202001",
+      "country": "India"
+    },
+    "linkedin": "https://www.linkedin.com/in/narendra-nishad/",
+    "github": "https://github.com/nkrider7",
+    "portfolio": "https://narendra-dev.netlify.app/"
+  },
+  "summary": "Results-driven Software Developer with 1+ year of experience in mobile and web application development. Proficient in React Native, Next.js, and React, with a strong focus on clean UI/UX, performance optimization, and scalable architecture.",
+  "skills": {
+    "frontend": ["React", "Tailwind CSS", "JavaScript", "HTML", "CSS", "Next.js", "React Native (Expo)"],
+    "backend": ["Node.js", "Express", "PostgreSQL"],
+    "tools_and_others": ["Git", "GitHub", "Firebase", "Supabase", "Lunacy", "Framer Motion", "Lottie Animation", "Figma"],
+    "programming_languages": ["JavaScript", "C++", "Python", "TypeScript"]
+  },
+  "experience": [
+    {
+      "position": "Frontend Developer Intern",
+      "company": "DevXquad",
+      "duration": "May 2024 - July 2024",
+      "responsibilities": [
+        "Developed a Next.js web application with link shortener system.",
+        "Built dynamic frontend using Shadcn UI and Tailwind CSS.",
+        "Collaborated with the team for feature enhancements and user experience improvements."
+      ]
+    },
+    {
+      "position": "Full Stack Developer Intern",
+      "company": "Boomzo",
+      "duration": "July 2024 - June 2025",
+      "responsibilities": [
+        "Developed and maintained mobile/web apps using React Native (Expo), Next.js, and FlutterFlow.",
+        "Redesigned Boomzo's official website with SEO and performance optimization.",
+        "Integrated APIs, authentication, and backend services.",
+        "Worked with CoolCliq Agency on client projects, focusing on performance and UX.",
+        "Used Git and GitHub for version control and collaboration."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "institution": "Raja Mahendra Pratap Singh State University",
+      "duration": "2021 - 2024"
+    },
+    {
+      "degree": "12th",
+      "institution": "H I Inter College, Aligarh",
+      "percentage": "73%"
+    },
+    {
+      "degree": "10th",
+      "institution": "H I Inter College, Aligarh",
+      "percentage": "69%"
+    }
+  ],
+  "languages": ["English", "Hindi"],
+  "projects": [
+    {
+      "name": "Petopia - Pets Adopt & Market Place",
+      "description": "An e-commerce platform for pet products and adoption services.",
+      "technologies": ["React", "Shadcn UI", "Node.js", "React Query"],
+      "links": {
+        "live": "https://pals-petopia.netlify.app/",
+        "source": "https://github.com/nkrider7/Group-5-Petopia_Market"
+      }
+    },
+    {
+      "name": "Soul Arise App",
+      "description": "A gamified task and habit tracker inspired by Solo Leveling.",
+      "technologies": ["React Native", "Animation", "Persistent Storage"],
+      "features": [
+        "Quest system with custom rewards",
+        "Habit tracking with streaks and stats",
+        "Character selection and leveling",
+        "Domain Expansion Timer"
+      ],
+      "links": {
+        "live": "https://soularise.netlify.app/",
+        "source": "https://github.com/nkrider7/soularise"
+      }
+    },
+    {
+      "name": "Boomzo Official Website",
+      "description": "SEO-friendly and responsive website for Boomzo.",
+      "technologies": ["Next.js", "Tailwind CSS"],
+      "link": "https://www.boomzo.in/"
+    },
+    {
+      "name": "MediHelp Global",
+      "description": "Full website focused on mobile responsiveness, international support, and SEO.",
+      "link": "https://medihelpglobal.com/"
+    },
+    {
+      "name": "TechTrail DMC",
+      "description": "Supported responsive UI design and SEO setup.",
+      "link": "https://www.techtraildmc.com/"
+    }
+  ],
+  "achievements": [
+    "Received Appreciation Certificate from Aligarh Cyber Crime Thana for cyber awareness initiative under 'Online Suraksha'.",
+    "Completed Microsoft Cloud Fundamentals certification.",
+    "Completed Google Digital Marketing course via Google Digital Garage."
+  ],
+  "community_and_volunteering": [
+    {
+      "role": "Volunteer",
+      "organization": "Online Suraksha",
+      "activities": [
+        "Conducted workshops and created educational content for online safety awareness."
+      ]
+    },
+    {
+      "role": "Chapter Member & Graphic Designer",
+      "organization": "OWASP Foundation (Aligarh Chapter)",
+      "activities": [
+        "Managed meetings and schedules.",
+        "Contributed to discussions on web app security and mitigation strategies."
+      ]
+    }
+  ],
+  "professional_links": {
+    "playstore_apps": [
+      "https://play.google.com/store/apps/details?id=com.boomzo.customer"
+    ],
+    "company_profiles": [
+      "https://www.linkedin.com/company/devxquad/"
+    ]
+  },
+  "project_count": 20,
+  "strengths": [
+    "Quick to understand new codebases",
+    "Adaptable to team workflows",
+    "Focus on user-centric and innovative solutions"
+  ]
+}
