@@ -1,6 +1,6 @@
-<p align="center"> <img src="/gihub.png"  alt="nkrider7" /> </p>
+<p align="center"> <img src="/bnaer.gif"  alt="nkrider7" /> </p>
 
-🔭 I’m currently working on React Native Expo, Next Js<br><br>🌱 I’m currently learning PostgreSQL, Prisma.<br><br>👯 I’m looking to collaborate on My SaaS App { ? } <br><br>💬 Ask me about React, NextJS, Javascript, Cybersecurity<br><br>📫 How to reach me narendranishad59@gmail.com
+🔭 I’m currently working on React Native Expo, Next Js<br><br>🌱 I’m currently learning PostgreSQL, Prisma.<br><br>👯 I’m looking to collaborate on My Soul Arise App { ? } <br><br>💬 Ask me about React, NextJS, Javascript, Gamify Things <br><br>📫 How to reach me narendranishad59@gmail.com
 
 
 ## 🌐 Socials:
