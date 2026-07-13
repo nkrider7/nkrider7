@@ -1,61 +1,136 @@
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/nkrider7/nkrider7@main/githubbanners.png"  alt="nkrider7" /> </p>
 <div align="center">
-<a href="https://discord.gg/nkrider">
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"/>
-</a>
-<a href="https://instagram.com/nkriderking">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/narendra-a90182223/">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:narendranishad59@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
-</a>
+  <img src="https://cdn.jsdelivr.net/gh/nkrider7/nkrider7@main/githubbanners.png" alt="Narendra Nishad" width="100%" />
 </div>
-<p align="center">🔭 I’m currently working on React Native Expo, Next Js, Rust, WASM.</p>
-<p align="center">🌱 I’m currently learning AI Things and Systems</p>
-<p align="center">👯 I’m looking to collaborate on My Soul Arise App { <a href="https://soularise.in/">Check</a> } </p>
-<p align="center">💬 Ask me about React, NextJS, Javascript, React Native, Gamify Things</p>
-<p align="center">📫 How to reach me narendranishad59@gmail.com</p>
-<p align="center">
- <img align="center" src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" alt="LinkedIn" width="24px" height="24px"/>
-</p>
 
+<br />
 
-<img align="right" style="padding-top: 7px;" src="https://github-readme-streak-stats.herokuapp.com?user=nkrider7&theme=blue-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700&stroke=5326DD&fire=DD2727&ring=242EDC&sideNums=25C9DD" alt="nkrider7's GitHub Stats" width="350" />  
+<div align="center">
 
-<p align="left">
-<details><summary> 🚀 My Projects & Portfolio <img src="https://user-images.githubusercontent.com/48355572/234978665-08b7d16e-dace-479a-a061-478972c43f6b.gif" width="14px" height="14px"></summary>
+# Hi, I'm Narendra Nishad
+
+**Software Developer** · React · Next.js · React Native · Rust  
+
+I build clean, fast products across web and mobile — from concept to ship.
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-narendra7.is--a.dev-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://narendra7.is-a.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-narendra--nishad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-nishad/)
+[![GitHub](https://img.shields.io/badge/GitHub-nkrider7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nkrider7)
+[![Email](https://img.shields.io/badge/Email-narendranishad59%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narendranishad59@gmail.com)
+
+</div>
+
+---
+
+### About
+
+Results-driven developer with experience shipping **mobile, web, and desktop apps**. Focused on clean UI/UX, performance, and scalable architecture.
+
+- Currently building **Fishman** — open-source native API IDE (Tauri + React)
+- Also building **Soul Arise** — gamified habits & self-improvement
+- Looking for **open-source** collaboration and contributions
+- Open to collaboration, freelance, and full-time opportunities
+- Ask me about **React**, **Next.js**, **React Native**, **Rust**, desktop apps, and product UX
+
+---
+
+### Featured Projects
+
+| Preview | Project | What it does | Stack | Links |
+| :---: | :--- | :--- | :--- | :--- |
+| <img src="./assets/fishman.png" width="72" alt="Fishman" /> | **Fishman** | Open-source native API IDE — scan backends, build collections, test APIs locally | Tauri v2, React, Rust | [Live](https://nkrider7.github.io/fishman/) · [Code](https://github.com/nkrider7/fishman) |
+| <img src="./assets/soularise.png" width="72" alt="Soul Arise" /> | **Soul Arise** | Gamified habit & quest tracker inspired by Solo Leveling — streaks, levels, rewards | React Native, Expo | [Live](https://soularise.netlify.app/) · [Code](https://github.com/nkrider7/soularise) |
+| <img src="./assets/petopia.png" width="72" alt="Petopia" /> | **Petopia** | Pet marketplace & adoption platform | React, Node.js, React Query | [Live](https://pals-petopia.netlify.app/) · [Code](https://github.com/nkrider7/Group-5-Petopia_Market) |
+| <img src="./assets/vanicycle.png" width="72" alt="Vanicycle" /> | **Vanicycle** | TypeScript cycle engine — period, ovulation & fertile-window predictions for apps | TypeScript | [Live](https://nkrider7.github.io/vani/) · [Code](https://github.com/nkrider7/vani) |
+| <img src="./assets/medcare.png" width="72" alt="Medcare" /> | **Medcare** | Healthcare platform focused on clean UI and patient-friendly digital care | React, Next.js | [Live](https://medcareindia.netlify.app/) |
+| <img src="./assets/broocode.png" width="72" alt="Broocode" /> | **Broocode** | Web & app development agency site — growth-focused digital products | Next.js, React | [Live](https://broocode.vercel.app/) |
+
+<details>
+<summary>🚀 More Projects & Portfolio </summary>
 <p>
 
-### 🌐 View my complete portfolio: **[nkrider7.github.io/projects](https://nkrider7.github.io/projects)**
+### 🌐 View my complete portfolio: **[narendra7.is-a.dev](https://narendra7.is-a.dev/)**
 
 <br/>
 
 <table><tr><td valign="top" width="100%">
 
-## 💻 Featured Projects
- 
+### 💻 Other Projects
+
 | **Project Name** | **Description** | **Link** |
 | --- | --- | --- |
-| **[Project Name 1](https://nkrider7.github.io/projects)** | Brief description of what this project does and the tech stack used. | [View Project ❯](https://nkrider7.github.io/projects) |
-| **[Project Name 2](https://nkrider7.github.io/projects)** | Brief description of what this project does and the tech stack used. | [View Project ❯](https://nkrider7.github.io/projects) |
-| **[Project Name 3](https://nkrider7.github.io/projects)** | Brief description of what this project does and the tech stack used. | [View Project ❯](https://nkrider7.github.io/projects) |
-| **[Project Name 4](https://nkrider7.github.io/projects)** | Brief description of what this project does and the tech stack used. | [View Project ❯](https://nkrider7.github.io/projects) |
- 
+| **[Boomzo Website](https://www.boomzo.in/)** | SEO-friendly company site with performance focus — Next.js, Tailwind. | [View Project ❯](https://www.boomzo.in/) |
+| **[MediHelp Global](https://medihelpglobal.com/)** | Responsive healthcare site with international reach — Web, SEO. | [View Project ❯](https://medihelpglobal.com/) |
+| **[TechTrail DMC](https://www.techtraildmc.com/)** | Travel / DMC site — responsive UI & SEO setup. | [View Project ❯](https://www.techtraildmc.com/) |
+
 </td></tr></table>
 
 ![dotted-bar-long](https://user-images.githubusercontent.com/48355572/263612162-32246a50-238b-48d7-aa6d-f1562b04ce3a.png)
 
 </p>
 </details>
+
+---
+
+### Experience
+
+**Software Developer** · KitFit · *Sep 2025 – Mar 2026*  
+Building women’s health & menstrual tracking experiences with React, Next.js, and React Native.
+
+**React Native Developer** · Boomzo · *Jul 2024 – Jul 2025*  
+Shipped mobile/web apps with Expo & Next.js; redesigned boomzo.in with SEO and performance wins.
+
+**Full Stack Intern** · DevXquad · *May 2024 – Jul 2024*  
+Built Next.js apps (including a link shortener) with Shadcn UI and Tailwind CSS.
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+---
 
+### GitHub Stats
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=nkrider7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" /> -->
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=nkrider7&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
 
+<!-- <br /> -->
 
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nkrider7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</div> -->
+
+---
+
+### Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narendra-nishad/)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nkrider)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nkriderking)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:narendranishad59@gmail.com)
+
+<br />
+
+⭐ From [nkrider7](https://github.com/nkrider7) — let’s build something useful.
+
+</div>
